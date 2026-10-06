@@ -1,4 +1,4 @@
-# CultureSup — Édition Salon des métiers artistiques
+# CultureSup — Édition Salon des formations et métiers artistiques
 
 > Explorer les écoles supérieures d'art sous tutelle du ministère de la Culture, sur un stand, sans connexion réseau (sauf pour accéder aux pages des établissements".
 
